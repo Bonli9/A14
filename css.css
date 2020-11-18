@@ -1,0 +1,40 @@
+html,
+body {
+    background-color: cornsilk;
+
+    background-blend-mode: hard-light;
+}
+
+body {
+    font-family:"Russo One", sans-serif;
+    text-align: -webkit-center;
+}
+
+h1, h2, h3 {
+    mso-ascii-font-family: auto;
+}
+
+p {
+    color: indianred;
+}
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+.Product {
+    background-color: #fff;
+}
+
+#great {
+    background-color: firebrick;
+}
+.footer{
+    color:black;
+    position: page;
+
+}
+.cookie{
+    color: darkblue;
+    font-size:larger;
+}
